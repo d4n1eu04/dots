@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/daniell/Imagens/Wallpapers/wall.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#110401",
+        "foreground": "#f2ebde",
+        "cursor": "#f2ebde"
+    },
+    "colors": {
+        "color0": "#110401",
+        "color1": "#c67b3b",
+        "color2": "#c35e38",
+        "color3": "#c58539",
+        "color4": "#c5923a",
+        "color5": "#d5a771",
+        "color6": "#e7cfad",
+        "color7": "#f2ebde",
+        "color8": "#a9a49b",
+        "color9": "#c67b3b",
+        "color10": "#c35e38",
+        "color11": "#c58539",
+        "color12": "#c5923a",
+        "color13": "#d5a771",
+        "color14": "#e7cfad",
+        "color15": "#f2ebde"
+    }
+}

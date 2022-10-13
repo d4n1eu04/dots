@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/daniell/Imagens/Wallpapers/sainzganho.png",
+    "alpha": "100",
+    "special": {
+        "background": "#171314",
+        "foreground": "#e4e6e8",
+        "cursor": "#e4e6e8"
+    },
+    "colors": {
+        "color0": "#171314",
+        "color1": "#D04B56",
+        "color2": "#AA9467",
+        "color3": "#9F7C82",
+        "color4": "#A59A97",
+        "color5": "#CBB6B2",
+        "color6": "#D1D1D3",
+        "color7": "#e4e6e8",
+        "color8": "#9fa1a2",
+        "color9": "#D04B56",
+        "color10": "#AA9467",
+        "color11": "#9F7C82",
+        "color12": "#A59A97",
+        "color13": "#CBB6B2",
+        "color14": "#D1D1D3",
+        "color15": "#e4e6e8"
+    }
+}

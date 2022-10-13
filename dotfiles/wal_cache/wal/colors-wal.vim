@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/daniell/Imagens/Wallpapers/rrbltiehz7b31.png"
+let background = "#1c1c1c"
+let foreground = "#e2cbc6"
+let cursor     = "#e2cbc6"
+
+" Colors
+let color0  = "#1c1c1c"
+let color1  = "#6b55eb"
+let color2  = "#eb55eb"
+let color3  = "#7861ec"
+let color4  = "#ec636b"
+let color5  = "#ed696b"
+let color6  = "#f1938f"
+let color7  = "#e2cbc6"
+let color8  = "#9e8e8a"
+let color9  = "#6b55eb"
+let color10 = "#eb55eb"
+let color11 = "#7861ec"
+let color12 = "#ec636b"
+let color13 = "#ed696b"
+let color14 = "#f1938f"
+let color15 = "#e2cbc6"

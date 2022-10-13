@@ -1,0 +1,21 @@
+set $wallpaper /home/daniell/Imagens/Wallpapers/rrbltiehz7b31.png
+
+set $background #1c1c1c
+set $foreground #e2cbc6
+
+set $color0 #1c1c1c
+set $color1 #6b55eb
+set $color2 #eb55eb
+set $color3 #7861ec
+set $color4 #ec636b
+set $color5 #ed696b
+set $color6 #f1938f
+set $color7 #e2cbc6
+set $color8 #9e8e8a
+set $color9 #6b55eb
+set $color10 #eb55eb
+set $color11 #7861ec
+set $color12 #ec636b
+set $color13 #ed696b
+set $color14 #f1938f
+set $color15 #e2cbc6

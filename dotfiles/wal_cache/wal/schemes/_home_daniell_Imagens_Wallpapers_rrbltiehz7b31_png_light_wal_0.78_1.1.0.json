@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/daniell/Imagens/Wallpapers/rrbltiehz7b31.png",
+    "alpha": "100",
+    "special": {
+        "background": "#fcf6f3",
+        "foreground": "#BC7E7C",
+        "cursor": "#BC7E7C"
+    },
+    "colors": {
+        "color0": "#fcf6f3",
+        "color1": "#6b56ea",
+        "color2": "#ea56ea",
+        "color3": "#7962eb",
+        "color4": "#eb646c",
+        "color5": "#ec6a6c",
+        "color6": "#f1938f",
+        "color7": "#BC7E7C",
+        "color8": "#8d766a",
+        "color9": "#6b56ea",
+        "color10": "#ea56ea",
+        "color11": "#7962eb",
+        "color12": "#eb646c",
+        "color13": "#ec6a6c",
+        "color14": "#f1938f",
+        "color15": "#BC7E7C"
+    }
+}
